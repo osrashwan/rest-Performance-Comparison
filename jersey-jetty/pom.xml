@@ -12,7 +12,7 @@
     <artifactId>jersey-jetty</artifactId>
 
     <properties>
-        <jetty.version>9.3.8.v20160314</jetty.version>
+        <jetty.version>9.4.24.v20191120</jetty.version>
     </properties>
 
 
