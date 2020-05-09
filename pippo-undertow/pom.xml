@@ -8,7 +8,7 @@
   <artifactId>pippo-undertow</artifactId>
   
    <properties>
-        <pippo.version>0.8.0</pippo.version>
+        <pippo.version>1.12.0</pippo.version>
     </properties>
     
   <dependencies>
