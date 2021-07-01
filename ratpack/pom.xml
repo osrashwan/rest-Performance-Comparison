@@ -9,7 +9,7 @@
   <name>ratpack</name>
   
    <properties>
-        <ratpack.version>1.7.6</ratpack.version>
+        <ratpack.version>1.9.0</ratpack.version>
     </properties>
     
   <dependencies>
