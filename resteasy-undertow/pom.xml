@@ -13,7 +13,7 @@
 
     <properties>
         <resteasy.version>3.0.16.Final</resteasy.version>
-        <undertow.version>2.0.28.Final</undertow.version>
+        <undertow.version>2.2.19.Final</undertow.version>
     </properties>
 
     <dependencies>
